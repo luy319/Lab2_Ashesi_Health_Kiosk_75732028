@@ -126,8 +126,9 @@ public class HealthKiosk {
                 break;
         }
 
-        input.close();
+        
     }
 }
+
 
 
