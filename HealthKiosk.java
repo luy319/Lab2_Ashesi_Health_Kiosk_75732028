@@ -125,7 +125,6 @@ public class HealthKiosk {
                 System.out.println("Summary: COUNSELING | ID=" + shortId + " | Code=" + displayCode);
                 break;
         }
-
         
     }
 }
