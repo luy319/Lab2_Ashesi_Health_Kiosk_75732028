@@ -1,1 +1,3 @@
-# Lab2_Ashesi_Health_Kiosk_75732028
+Name: Luyanda Delight Dlamini
+ID: 75732028
+Lab2
